@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>ServerInfo</servlet-name>
+<servlet-class>ServerInfo</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>ServerInfo</servlet-name>
+<url-pattern>/ServerInfo</url-pattern>
+</servlet-mapping>
+
+</web-app>

@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>ChangeColor</servlet-name>
+<servlet-class>ChangeColor</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>ChangeColor</servlet-name>
+<url-pattern>/ChangeColor</url-pattern>
+</servlet-mapping>
+
+</web-app>

@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>PassPara</servlet-name>
+<servlet-class>PassPara</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>PassPara</servlet-name>
+<url-pattern>/PassPara</url-pattern>
+</servlet-mapping>
+
+</web-app>

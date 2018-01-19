@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>GreetTime</servlet-name>
+<servlet-class>GreetTime</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>GreetTime</servlet-name>
+<url-pattern>/GreetTime</url-pattern>
+</servlet-mapping>
+
+</web-app>
